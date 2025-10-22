@@ -16,9 +16,6 @@ I specialize in **Linux systems, automation, web apps, and open-source publishin
 - **DevOps & Tools:** Docker, GitHub Actions, Nginx, Apache, CI/CD  
 - **Other Skills:** Linux Administration, Automation, API Integration, Bulk Data Handling  
 
-🔹 [**High-Performance Web App Templates**](#)  
-Single-file, **zero-dependency** apps with bulk import/export, favorites, and modern UI.  
-
 ---
 
 ## 📈 GitHub Stats
@@ -37,9 +34,7 @@ Every project I publish is designed to be **robust, scalable, and easy to contri
 
 ## 📫 Connect With Me
 
-- GitHub: [@cybercodertechofficial](https://github.com/cybercodertechofficial)  
-- LinkedIn: *(Add your link here)*  
-- Twitter/X: *(Add your handle here)*  
+- GitHub: [@cybercodertechofficial](https://github.com/cybercodertechofficial)    
 
 ---
 
