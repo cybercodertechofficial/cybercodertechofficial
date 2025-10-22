@@ -18,13 +18,6 @@ I specialize in **Linux systems, automation, web apps, and open-source publishin
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybercodertechofficial&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cybercodertechofficial&layout=compact&theme=radical)
-
----
-
 ## 🌍 Open-Source Philosophy
 
 I believe in **sharing knowledge, building tools for power users, and creating resources that empower developers worldwide**.  
