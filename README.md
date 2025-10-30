@@ -40,7 +40,7 @@ I code in every major language of the world — from system-level C++ to futuris
 
 ---
 
-## 🌍 **All World Coding Languages & Technologies**
+## 🌍 **my skills**
 
 ### 🧠 **Core & System Languages**
 | Language | Skill | Badge |
